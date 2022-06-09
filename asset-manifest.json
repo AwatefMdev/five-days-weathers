@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/five-days-weathers/static/css/main.9038f76d.css",
+    "main.js": "/five-days-weathers/static/js/main.6df8c7e6.js",
+    "static/media/slick.svg": "/five-days-weathers/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/five-days-weathers/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/five-days-weathers/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/five-days-weathers/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/five-days-weathers/index.html",
+    "main.9038f76d.css.map": "/five-days-weathers/static/css/main.9038f76d.css.map",
+    "main.6df8c7e6.js.map": "/five-days-weathers/static/js/main.6df8c7e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9038f76d.css",
+    "static/js/main.6df8c7e6.js"
+  ]
+}
